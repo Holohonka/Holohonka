@@ -1,5 +1,11 @@
-## Hi there 👋
+## Hei, tervetuloa sivustolleni! 👋
 
+Olen ratkaisukeskeinen AV-ammattilainen, jolla on vankka kokemus projektityöstä. 
+Yhdistän työssäni teknisen osaamisen, selkeät työnkulut ja varman projektinhallinnan.
+Haluatko tarjota minulle töitä? Ota yhteyttä Linkedinissäni tai nettisivuillani. 
+
+- 🌐 [Nettisivu](https://valimakisaara.infinityfreeapp.com/index.html)
+- 💼 [LinkedIn](https://fi.linkedin.com/in/saara-v%C3%A4lim%C3%A4ki-440706192)
 <!--
 **Holohonka/Holohonka** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
